@@ -19,7 +19,7 @@ Under the Trump administration, a growing number of detainees in immigration det
 
 But attorneys and former immigration judges suspect that many immigrants with legitimate fear claims are choosing to return to dangerous circumstances, rather than languish in indefinite detention while their cases work their way through an unprecedentedly clogged court system.
 
-The Marshall Project analyzed voluntary departure applications data from the Executive Office of Immigration Review (EOIR), the office at the Department of Justice responsible for overseeing the immigration courts, to answer the following questions:
+The Marshall Project analyzed voluntary departure applications data from the Executive Office for Immigration Review (EOIR), the office at the Department of Justice responsible for overseeing the immigration courts, to answer the following questions:
 
 
 1. Are voluntary departure applications increasing under the Trump administration?  
@@ -29,7 +29,7 @@ The Marshall Project analyzed voluntary departure applications data from the Exe
 
 Our story, "[More Detained Migrant Give Up Court Fights and Leaving the U.S](https://www.themarshallproject.org/2019/04/15/more-detained-immigrants-are-giving-up-court-fights-and-leaving-the-u-s)" published by [The Marshall Project](http://themarshallproject.org) on April 15, 2019, examined the change in voluntary departure applications across the immigration system since Trump was elected into office.
 
-Included in this repo is [the table](data/df_monthly_vdeparture_applications_2012_2018.csv) of data The Marshall Project used to analyze and visualize the influx of voluntary departure applications. These are voluntary departure applications for 63 base city locations where there are immigration courts, by month and year, from Oct. 2011 to Dec. 2019.
+Included in this repo is [the table](data/df_monthly_vdeparture_applications_2012_2018.csv) of data The Marshall Project used to analyze and visualize the influx of voluntary departure applications. These are voluntary departure applications for 61 base city locations where there are immigration courts, by month and year, from Oct. 2011 to Dec. 2019.
 
 If you'd like to use the data, please read on to understand its provenance.
 

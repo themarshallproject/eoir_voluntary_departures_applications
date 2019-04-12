@@ -45,7 +45,7 @@ These observations comported with on-the-ground reporting, and helped to provide
 
 The chart for the final story was handcrafted by Katie Park. She also provided input to ensure that the data visualization effectively communicated all the right information, in the best and simplest way.
 
-All of our analysis was done using R, an open source language and environment for statistical computing and graphics. And our data came from FOIA requests to EOIR and from the Transactional Access Records Clearinghouse, or TRAC, at Syracuse University.
+All of our analysis was done using R, an open source language and environment for statistical computing and graphics. And our data came from FOIA requests to EOIR, and data from the Transactional Access Records Clearinghouse, or TRAC, at Syracuse University.
 
 
 # Contributors

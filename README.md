@@ -37,7 +37,7 @@ If you'd like to use the data, please read on to understand its provenance.
 
 Before any analysis could be done, we joined multiple data tables that we received from EOIR into one table. We had to clean up column names and account for missing values at various locations. After multiple conversations with EOIR's FOIA office, we were confident that we had all available data for all available facilities. Only then could we move on to the analysis.
 
-We started the analysis with a deductive approach. We plotted voluntary departure applications by year to observe overarching trends in the data. We found that from 2017 to 2018, the number of applications filed had not only doubled, but it had also reached a six-year high.
+We started the analysis with a deductive approach. We plotted voluntary departure applications by year to observe overarching trends in the data. We found that from 2017 to 2018, the number of applications filed had not only doubled, but it had also reached a seven-year high.
 
 From there, we took apart the yearly data by month. We found that the upward trend in applications started in 2016, around the onset of the Trump administration.
 

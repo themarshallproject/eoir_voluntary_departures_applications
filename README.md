@@ -41,6 +41,8 @@ We started the analysis with a deductive approach. We plotted voluntary departur
 
 From there, we took apart the yearly data by month. We found that the upward trend in applications started in 2016, around the onset of the Trump administration.
 
+![Voluntary Departure Applications, by month, from 2012 to 2018](https://github.com/themarshallproject/eoir_voluntary_departures_applications/blob/master/plots/Voluntary_Departure_Applications_by_Month.png)
+
 These observations comported with on-the-ground reporting, and helped to provide broader context for the story of Alejandra García Zamarrón, a mother of three U.S. citizens who opted for voluntary departure instead of remaining in detention in Atlanta, despite fear of reprisal from her spouse in Mexico.
 
 The chart for the final story was handcrafted by Katie Park. She also provided input to ensure that the data visualization effectively communicated all the right information, in the best and simplest way.

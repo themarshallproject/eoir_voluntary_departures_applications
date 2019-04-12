@@ -29,7 +29,7 @@ The Marshall Project analyzed voluntary departure applications data from the Exe
 
 Our story, "[More Detained Migrant Give Up Court Fights and Leaving the U.S](https://www.themarshallproject.org/2019/04/15/more-detained-immigrants-are-giving-up-court-fights-and-leaving-the-u-s)" published by [The Marshall Project](http://themarshallproject.org) on April 15, 2019, examined the change in voluntary departure applications across the immigration system since Trump was elected into office.
 
-Included in this repo is [the table](data/df_monthly_vdeparture_applications_2012_2018.csv) of data The Marshall Project used to analyze and visualize the influx of voluntary departure applications. These are voluntary departure applications for 61 base city locations where there are immigration courts, by month and year, from Oct. 2011 to Dec. 2019.
+Included in this repo is [the table](data/df_monthly_vdeparture_applications_2012_2018.csv) of data The Marshall Project used to analyze and visualize the influx of voluntary departure applications. These are voluntary departure applications for 61 base city locations where there are immigration courts, by month and year, from Oct. 2011 to Dec. 2018.
 
 If you'd like to use the data, please read on to understand its provenance.
 

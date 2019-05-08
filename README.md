@@ -14,12 +14,12 @@ M M M M M M M M M   /_/  /_/  \___/_/ /\__/\__/\__/
 
 By [Andrew R. Calderon](https://www.themarshallproject.org/staff/andrew-r.-calderon)
 
-# More Detained Migrants Give Up Court Fights and Leaving the U.S.
-Under the Trump administration, a growing number of detainees in immigration detention centers are choosing to depart voluntarily rather than fight court cases. These so-called "voluntary departures" have been trumpeted by the Department of Justice as a sign of successful enforcement.
+# More Immigrants Are Giving Up Court Fights and Leaving the U.S.
+Under the Trump administration, a growing number of immigrants are choosing to depart voluntarily rather than fight court cases. These so-called "voluntary departures" have been trumpeted by the Department of Justice as a sign of successful enforcement.
 
 But attorneys and former immigration judges suspect that many immigrants with legitimate fear claims are choosing to return to dangerous circumstances, rather than languish in indefinite detention while their cases work their way through an unprecedentedly clogged court system.
 
-The Marshall Project analyzed voluntary departure applications data from the Executive Office for Immigration Review (EOIR), the office at the Department of Justice responsible for overseeing the immigration courts, to answer the following questions:
+The Marshall Project analyzed voluntary departure applications data from the Executive Office for Immigration Review (EOIR), the agency at the Department of Justice responsible for overseeing the immigration courts, to answer the following questions:
 
 
 1. Are voluntary departure applications increasing under the Trump administration?  
@@ -27,7 +27,7 @@ The Marshall Project analyzed voluntary departure applications data from the Exe
 
 2. Which courts have seen the greatest increases in the amount of voluntary departure applications from 2016 to 2018?   
 
-Our story, "[More Detained Migrant Give Up Court Fights and Leaving the U.S](https://www.themarshallproject.org/2019/04/15/more-detained-immigrants-are-giving-up-court-fights-and-leaving-the-u-s)" published by [The Marshall Project](http://themarshallproject.org) on April 15, 2019, examined the change in voluntary departure applications across the immigration system since Trump was elected into office.
+Our story, "[More Detained Migrant Give Up Court Fights and Leaving the U.S](https://www.themarshallproject.org/2019/05/08/more-detained-immigrants-are-giving-up-court-fights-and-leaving-the-u-s)" published by [The Marshall Project](http://themarshallproject.org) on May 8, 2019, examined the change in voluntary departure applications across the immigration system since Trump was elected into office.
 
 Included in this repo is [the table](data/df_monthly_vdeparture_applications_2012_2018.csv) of data The Marshall Project used to analyze and visualize the influx of voluntary departure applications. These are voluntary departure applications for 61 base city locations where there are immigration courts, by month and year, from Oct. 2011 to Dec. 2018.
 
@@ -43,7 +43,7 @@ From there, we took apart the yearly data by month. We found that the upward tre
 
 ![Voluntary Departure Applications, by month, from 2012 to 2018](https://github.com/themarshallproject/eoir_voluntary_departures_applications/blob/master/plots/Voluntary_Departure_Applications_by_Month.png)
 
-These observations comported with on-the-ground reporting, and helped to provide broader context for the story of Alejandra García Zamarrón, a mother of three U.S. citizens who opted for voluntary departure instead of remaining in detention in Atlanta, despite fear of reprisal from her spouse in Mexico.
+These observations comported with on-the-ground reporting, and helped to provide broader context for the story of Alejandra Garcia Zamarrón, a mother of three U.S. citizens who opted for voluntary departure instead of remaining in detention in Atlanta, despite fear of reprisal from her spouse in Mexico.
 
 The chart for the final story was handcrafted by Katie Park. She also provided input to ensure that the data visualization effectively communicated all the right information, in the best and simplest way.
 
